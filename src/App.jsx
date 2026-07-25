@@ -333,7 +333,7 @@ const App = () => {
 
             <label className="group flex flex-col items-center justify-center border-2 border-dashed rounded-[2rem] p-8 cursor-pointer hover:border-indigo-500 hover:bg-indigo-50/30 transition-all border-slate-300 dark:border-slate-700">
                <Upload size={32} className="text-indigo-500 mb-2 group-hover:-translate-y-1 transition-transform" />
-               <span className="text-[10px] font-bold text-slate-500 uppercase text-center">PDF, Word o TXT</span>
+               <span className="text-[10px] font-bold text-slate-500 uppercase text-center">PDF o TXT</span>
                <input type="file" onChange={handleFileUpload} className="hidden" accept=".txt,.docx,.pdf" />
             </label>
           </div>
