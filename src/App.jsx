@@ -352,7 +352,7 @@ const App = () => {
                 <p className="text-[10px] font-black uppercase tracking-widest text-indigo-100">PRO-CONSOLE v2.7.5</p>
              </div>
              <p className="text-[11px] font-medium opacity-90 italic text-center leading-relaxed">"Navegación temporal precisa y entrada de datos extendida."</p>
-             <p className="text-[11px] font-medium opacity-90 italic text-center leading-relaxed">"Usar mejor en la PC. De usar en el móvil, asegúrese de configurar antes la opción texto to speech (TTS) en English (United State) para que no se cuelen sonidos en español."</p>
+             <p className="text-[11px] font-medium opacity-90 italic text-center leading-relaxed">"Usar mejor en la PC. De usar en el móvil, asegúrese de configurar antes la opción text to speech (TTS) en English (United State) para que no se cuelen sonidos en español."</p>
              <div className="mt-4 pt-4 border-t border-indigo-400 text-center">
                 <p className="text-[9px] font-bold tracking-widest opacity-80 uppercase leading-loose">By prof.carlos.unesr@gmail.com</p>
              </div>
